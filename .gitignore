@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Dataset: besar dan lisensi mirror tidak jelas, tiap orang unduh sendiri
+Rain13K/
+
+# Data palsu dan hasil tes sementara
+data_palsu/
+hasil_tes/
